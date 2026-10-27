@@ -1,4 +1,4 @@
-# ScreenPilot Local
+# ScreenPilot Local 通过本地大模型实现图片识别+鼠标答题
 
 > 让视觉 AI 在自己的电脑上运行。
 
